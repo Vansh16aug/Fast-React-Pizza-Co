@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# First Look
+![First Look](/public/image.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
